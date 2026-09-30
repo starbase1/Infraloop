@@ -1,5 +1,4 @@
- ******Infraloop*****
- 
+ **Infraloop**
 **Daily Operations is an enterprise agile operation, real-time project tracking, code accuracy governance, and team communication 
 platform designed for multinational corporations (MNCs) supporting up to 10,00,000 (1 million) concurrent users with zero lag.**
 
@@ -11,7 +10,7 @@ The primary objectives of the Infraloop launch included:
 Secondary objectives included enhancing Daily office operations and Stockholders
 managements correctly also helps for Daily Reporting and Customize your workflow
 with Infraloop.
-Useful For : IT OR FINTECH and Other types of Industries
+[INFRALOOP.pdf](https://github.com/user-attachments/files/32858590/INFRALOOP.pdf)
 
   **MOBILE VIEW**
 
