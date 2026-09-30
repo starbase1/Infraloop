@@ -1,6 +1,5 @@
- **Infraloop**
- <img width="520" height="420" alt="download" src="https://github.com/user-attachments/assets/d648be97-7a4f-44c1-8f8e-341d17a0f490" />
-
+ ******Infraloop*****
+ 
 **Daily Operations is an enterprise agile operation, real-time project tracking, code accuracy governance, and team communication 
 platform designed for multinational corporations (MNCs) supporting up to 10,00,000 (1 million) concurrent users with zero lag.**
 
