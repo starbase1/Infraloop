@@ -1,6 +1,6 @@
-<img width="1366" height="707" alt="Screenshot Deskview3" src="https://github.com/user-attachments/assets/69e330f6-2561-4c28-95cf-07d3477a02c3" /># Infraloop
-This app is designed to solve real company problems :  tracking daily productivity and visualizing progress. Employee Operations Portal — is the perfect Company portfolio For combines secure authentication (OAuth2), specific user data isolation (User Folders), and data visualization (Charts). real-time productivity analytics
-This app is designed to solve real company problems: tracking daily productivity and visualizing progress.
+ **/>#Infraloop**
+ <img width="1366" height="717" alt="Screen DESK 1" src="https://github.com/user-attachments/assets/2cd569f7-2296-4d86-89c3-bdee2d20ae32" />
+**Daily Operations is an enterprise agile operation, real-time project tracking, code accuracy governance, and team communication platform designed for multinational corporations (MNCs) supporting up to 10,00,000 (1 million) concurrent users with zero lag.**
 
   <**MOBILE VIEW**>
 
@@ -78,5 +78,4 @@ This app is designed to solve real company problems: tracking daily productivity
 <img width="1366" height="711" alt="Screenshot 2026-09-30 173039" src="https://github.com/user-attachments/assets/c25d69c6-bfe2-40b1-9809-250b1db4fd03" />
 <img width="1366" height="708" alt="Screen Desk 2" src="https://github.com/user-attachments/assets/db914a4b-658a-41d1-8538-806fcbd03526" />
 <img width="1366" height="711" alt="Screenshot Deskview4" src="https://github.com/user-attachments/assets/cc998815-6226-43bf-8f1f-fbac771d3239" />
-
-
+<img width="1366" height="707" alt="Screenshot Deskview3" src="https://github.com/user-attachments/assets/69e330f6-2561-4c28-95cf-07d3477a02c3" />
