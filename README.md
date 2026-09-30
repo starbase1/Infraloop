@@ -1,9 +1,8 @@
-# Infraloop
+<img width="1366" height="707" alt="Screenshot Deskview3" src="https://github.com/user-attachments/assets/69e330f6-2561-4c28-95cf-07d3477a02c3" /># Infraloop
 This app is designed to solve real company problems :  tracking daily productivity and visualizing progress. Employee Operations Portal — is the perfect Company portfolio For combines secure authentication (OAuth2), specific user data isolation (User Folders), and data visualization (Charts). real-time productivity analytics
 This app is designed to solve real company problems: tracking daily productivity and visualizing progress.
 
-**
-MOBILE VIEW****
+  <**MOBILE VIEW**>
 
 <img width="351" height="625" alt="Screenshot Page 1" src="https://github.com/user-attachments/assets/fe25fcde-e04b-43f4-8691-89c43d8099da" />
 <img width="354" height="638" alt="Screenshot Page 2 " src="https://github.com/user-attachments/assets/2140d972-0469-4492-b9ab-1f1dd873a40e" />
@@ -72,11 +71,12 @@ MOBILE VIEW****
 <img width="358" height="639" alt="Screenshot 21 6" src="https://github.com/user-attachments/assets/5e69afe8-a96e-43a9-87d2-31085fbc318a" />
 <img width="359" height="635" alt="Screenshot mobile logout" src="https://github.com/user-attachments/assets/d377a2c5-8790-4288-8930-aace200423e9" />
 
-**DESKTOP VIEW****
-<img width="1366" height="768" alt="Screenshot 2026-09-30 171755" src="https://github.com/user-attachments/assets/a09efe49-320c-4d41-9d62-21a2aeb97e1d" />
-
-
-
-
+**DESKTOP VIEW**
+<img width="1366" height="717" alt="Screen DESK 1" src="https://github.com/user-attachments/assets/2cd569f7-2296-4d86-89c3-bdee2d20ae32" />
+<img width="1366" height="722" alt="Screenshot Deskview2" src="https://github.com/user-attachments/assets/1aca3fe8-4e1a-48b7-8620-b5fc4d3c0cbc" />
+<img width="1366" height="707" alt="Screenshot Deskview3" src="https://github.com/user-attachments/assets/9c3c61b6-e616-4be0-99d3-8a8a22af66fb" />
+<img width="1366" height="711" alt="Screenshot 2026-09-30 173039" src="https://github.com/user-attachments/assets/c25d69c6-bfe2-40b1-9809-250b1db4fd03" />
+<img width="1366" height="708" alt="Screen Desk 2" src="https://github.com/user-attachments/assets/db914a4b-658a-41d1-8538-806fcbd03526" />
+<img width="1366" height="711" alt="Screenshot Deskview4" src="https://github.com/user-attachments/assets/cc998815-6226-43bf-8f1f-fbac771d3239" />
 
 
