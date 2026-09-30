@@ -1,8 +1,20 @@
- **/>#Infraloop**
- <img width="1366" height="717" alt="Screen DESK 1" src="https://github.com/user-attachments/assets/2cd569f7-2296-4d86-89c3-bdee2d20ae32" />
-**Daily Operations is an enterprise agile operation, real-time project tracking, code accuracy governance, and team communication platform designed for multinational corporations (MNCs) supporting up to 10,00,000 (1 million) concurrent users with zero lag.**
+ **Infraloop**
+ <img width="520" height="420" alt="download" src="https://github.com/user-attachments/assets/d648be97-7a4f-44c1-8f8e-341d17a0f490" />
 
-  <**MOBILE VIEW**>
+**Daily Operations is an enterprise agile operation, real-time project tracking, code accuracy governance, and team communication 
+platform designed for multinational corporations (MNCs) supporting up to 10,00,000 (1 million) concurrent users with zero lag.**
+
+**Launch objectives**
+The primary objectives of the Infraloop launch included:
+– Achieving Daily Operations workflow control using Our application.
+– Increasing user engagement by 80% through personalized push notifications.
+– Generating your workflow seamlessly within three months.
+Secondary objectives included enhancing Daily office operations and Stockholders
+managements correctly also helps for Daily Reporting and Customize your workflow
+with Infraloop.
+Useful For : IT OR FINTECH and Other types of Industries
+
+  **MOBILE VIEW**
 
 <img width="351" height="625" alt="Screenshot Page 1" src="https://github.com/user-attachments/assets/fe25fcde-e04b-43f4-8691-89c43d8099da" />
 <img width="354" height="638" alt="Screenshot Page 2 " src="https://github.com/user-attachments/assets/2140d972-0469-4492-b9ab-1f1dd873a40e" />
