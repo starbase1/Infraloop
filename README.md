@@ -10,10 +10,7 @@ The primary objectives of the Infraloop launch included:
 Secondary objectives included enhancing Daily office operations and Stockholders
 managements correctly also helps for Daily Reporting and Customize your workflow
 with Infraloop.
-[INFRALOOP.pdf](https://github.com/user-attachments/files/32858590/INFRALOOP.pdf)
-
-  **MOBILE VIEW**
-
+  **MOBILE**
 <img width="351" height="625" alt="Screenshot Page 1" src="https://github.com/user-attachments/assets/fe25fcde-e04b-43f4-8691-89c43d8099da" />
 <img width="354" height="638" alt="Screenshot Page 2 " src="https://github.com/user-attachments/assets/2140d972-0469-4492-b9ab-1f1dd873a40e" />
 <img width="363" height="641" alt="Screenshot Page 3" src="https://github.com/user-attachments/assets/e3a0a64c-fcdc-445b-a87d-ea003be76c54" />
